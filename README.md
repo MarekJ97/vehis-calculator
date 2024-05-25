@@ -1,5 +1,5 @@
 ## Instrukcja(PL)
-Repozytorium należy pobrać lub sklonować(git clone) i aby odpalić aplikację postępować zgodnie z poniszymi krokami:
+Aby odpalić aplikację należy pobrać repozytorium i postępować zgodnie z poniszymi krokami:
 
 ## 1. Zainstaluj niezbędne zależności:
 ```bash 
@@ -16,13 +16,13 @@ npm run build
 npm run preview
 ```
 
-## 4. W celu dostępu do narzędzi developerskich włącz serwer deweloperski pod adresem http://localhost:3000
+## W celu dostępu do narzędzi developerskich włącz serwer deweloperski pod adresem http://localhost:3000
 ```bash
 npm run dev
 ```
 
 ## Instructions(EN)
-The repository should be downloaded or cloned (git clone) and to run the application, follow the steps below:
+To run the application, download the repository and follow the steps below:
 
 ## 1. Install necessary dependencies:
 ```bash 
@@ -39,7 +39,7 @@ npm run build
 npm run preview
 ```
 
-## 4. To access development tools, enable the development server at http://localhost:3000
+## To access development tools, enable the development server at http://localhost:3000
 ```bash
 npm rundev
 ```
