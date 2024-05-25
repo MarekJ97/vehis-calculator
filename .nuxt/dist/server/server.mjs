@@ -1,0 +1,1 @@
+export { default } from "file:///Users/macmarek/Desktop/vehis-calculator/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
